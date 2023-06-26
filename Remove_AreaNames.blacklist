@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<BlackList 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="Remove_Industrial_Area">
+	<strings>
+		<!-- Remove Industrial Area Pattern -->
+		<LocalizedStringKey identifier="AREA_PATTERN" key="Industry" />
+		<LocalizedStringKey identifier="AREA_PATTERN" key="Farming" />
+		<LocalizedStringKey identifier="AREA_PATTERN" key="Forestry" />
+		<LocalizedStringKey identifier="AREA_PATTERN" key="Ore" />
+		<LocalizedStringKey identifier="AREA_PATTERN" key="Oil" />
+	</strings>
+</BlackList>

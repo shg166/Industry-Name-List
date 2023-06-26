@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NameList 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="JP Industrial Namelist (DLC Industries)">
+	<strings>
+		<!-- Industry Area Pattern -->
+		<LocalizedString identifier="AREA_PATTERN" key="Industry">産業エリア</LocalizedString>
+		<!-- Farming Area Pattern -->
+		<LocalizedString identifier="AREA_PATTERN" key="Farming">{0} 農産地</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Farming">{0} 果樹園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Farming">{0} 農業団地</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Farming">{0} 農地</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Farming">{0} 果樹園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Farming">{0} ファーム</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Farming">{0} 農園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Farming">{0} フィールド</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Farming">{0} 農業組合</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Farming">{0} 果樹組合</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Farming">{0} 牧場</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Farming">{0} 畜産</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Farming">{0} 酪農</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Farming">{0} 酪農農業</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Farming">{0} 畜産農業</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Farming">{0} 畜産組合</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Farming">{0} 酪農組合</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Farming">{0} 牧畜</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Farming">{0} 農業</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Farming">{0} 菜園</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Farming">{0} 圃場</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Farming">{0} 地所</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Farming">{0} グリーン</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Farming">酪農組合 {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Farming">畜産組合 {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Farming">農業組合 {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Farming">果樹組合 {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Farming">グリーンファーム {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Farming">グリーンフィールド {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Farming">グリーン {0}</LocalizedString>
+		<!-- Forestry Area Pattern -->
+		<LocalizedString identifier="AREA_PATTERN" key="Forestry">{0} 植林</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Forestry">{0} 製材所</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Forestry">{0} 加工所</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Forestry">{0} 林業</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Forestry">{0} 植栽地</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Forestry">{0} 伐採場</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Forestry">{0} 材木場</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Forestry">{0} 木工所</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Forestry">{0} 林業組合</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Forestry">{0} 貯木場</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Forestry">{0} 苗木所</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Forestry">{0} 林業団体</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Forestry">{0} 森林組合</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Forestry">{0} 農林業</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Forestry">{0} 人工林</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Forestry">{0} 自然林</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Forestry">{0} ウッド工業</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Forestry">{0} プレカット工業</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Forestry">{0} 集成材工業</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Forestry">{0} パルプ工業</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Forestry">{0} 製紙工業</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Forestry">{0} 段ボール工業</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Forestry">{0} 紙類加工</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Forestry">プレカット {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Forestry">ウッド {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Forestry">森林組合 {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Forestry">森林団体 {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Forestry">林業団体 {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Forestry">林業組合 {0}</LocalizedString>
+		<!-- Ore Area Pattern -->
+		<LocalizedString identifier="AREA_PATTERN" key="Ore">{0} 採掘場</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Ore">{0} 鉱石</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Ore">{0} 採石</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Ore">{0} 鉱山</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Ore">{0} 炭鉱</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Ore">{0} 製鋼場</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Ore">{0} 精錬場</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Ore">{0} 製鉄場</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Ore">{0} 鉄鋼</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Ore">{0} 精錬場</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Ore">{0} 鉱床</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Ore">{0} 破砕場</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Ore">{0} 露天掘</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Ore">{0} 鉱石組合</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Ore">{0} 炭鉱組合</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Ore">{0} 鉱石団体</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Ore">{0} 炭鉱団体</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Ore">{0} ガラス工業</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Ore">{0} 硝子工業</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Ore">{0} 板ガラス工業</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Ore">{0} 板硝子工業</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Ore">{0} グラス工業</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Ore">{0} 選鉱場</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Ore">{0} 油槽所</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Ore">{0} プレス工業</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Ore">鉱石組合 {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Ore">炭鉱組合 {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Ore">鉱石団体 {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Ore">炭鉱団体 {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Ore">クリスタル {0}</LocalizedString>
+		<!-- Oil Area Pattern -->
+		<LocalizedString identifier="AREA_PATTERN" key="Oil">{0} 石油産業</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Oil">{0} 油田</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Oil">{0} 油井</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Oil">{0} 精油所</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Oil">{0} 製油所</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Oil">{0} 石油工業</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Oil">{0} 石油</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Oil">{0} 化学工業</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Oil">{0} オイル</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Oil">{0} ケミカル</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Oil">{0} プラットホーム</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Oil">{0} 石油組合</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Oil">{0} シェールオイル</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Oil">{0} ガス田</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Oil">{0} 石油コンビナート</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Oil">{0} 石油備蓄基地</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Oil">{0} 化学</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Oil">{0} アスファルト工業</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Oil">{0} プラスチック工業</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Oil">{0} 合成樹脂</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Oil">{0} 樹脂工業</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Oil">{0} 合成繊維</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Oil">{0} 化学繊維</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Oil">{0} レーヨン工業</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Oil">{0} 化成工業</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Oil">{0} アスコン</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Oil">石油組合 {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Oil">石油団体 {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Oil">オイル {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Oil">ケミカル {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Oil">コンビナート {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="Oil">アスコン {0}</LocalizedString>
+	</strings>
+</NameList>
